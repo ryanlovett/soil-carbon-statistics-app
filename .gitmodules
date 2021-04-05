@@ -1,0 +1,3 @@
+[submodule "soil-carbon-statistics"]
+	path = soil-carbon-statistics
+	url = https://github.com/spertus/soil-carbon-statistics

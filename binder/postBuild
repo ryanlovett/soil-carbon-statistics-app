@@ -1,0 +1,3 @@
+#!/bin/sh
+
+Rscript -e 'install.packages("BalancedSampling", repo="https://cran.r-project.org")'
